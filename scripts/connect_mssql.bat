@@ -1,0 +1,1 @@
+docker exec -it mssql_db /opt/mssql-tools/bin/sqlcmd -S localhost -U sa -P root@ROOT
