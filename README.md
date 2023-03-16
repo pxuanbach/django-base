@@ -17,3 +17,5 @@ The main topic of the project is the travel website.
 
 - Connect database (MSSQL).
 - Set timezone.
+- Create a database schema.
+- Create a Python database-access API.
