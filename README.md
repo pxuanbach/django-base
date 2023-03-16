@@ -18,4 +18,11 @@ The main topic of the project is the travel website.
 - Connect database (MSSQL).
 - Set timezone.
 - Create a database schema.
-- Create a Python database-access API.
+- Bind data model to admin.
+
+## Day 3
+[Documentation.](https://docs.djangoproject.com/en/4.1/intro/tutorial03/)
+
+- Register Sub-app in admin app.
+- Custom show object directly.
+- Create `templates` html.
