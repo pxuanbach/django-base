@@ -2,7 +2,14 @@
 This is my project to learn about Django. 
 The main topic of the project is the travel website.
 
-## Day 1
+#### Table of contents
+- [Day 1: Initial Project](#day-1-initial-project)
+- [Day 2: Database Interaction](#day-2-database-interaction)
+- [Day 3: HTML Templates](#day-3-html-templates)
+- [Day 4: Form, Generic View, CSS, Static File, Customize Admin](#day-4-form-generic-view-css-static-file-customize-admin)
+
+
+## Day 1: Initial Project
 https://docs.djangoproject.com/en/4.1/intro/tutorial01/
 
 - Init project.
@@ -12,7 +19,7 @@ https://docs.djangoproject.com/en/4.1/intro/tutorial01/
     ```
 - Learn about `path()`.
 
-## Day 2
+## Day 2: Database Interaction
 https://docs.djangoproject.com/en/4.1/intro/tutorial02/
 
 - Connect database (MSSQL).
@@ -20,7 +27,7 @@ https://docs.djangoproject.com/en/4.1/intro/tutorial02/
 - Create a database schema.
 - Bind data model to admin.
 
-## Day 3
+## Day 3: HTML Templates
 https://docs.djangoproject.com/en/4.1/intro/tutorial03/
 
 - Register Sub-app in admin app.
@@ -28,7 +35,7 @@ https://docs.djangoproject.com/en/4.1/intro/tutorial03/
 - Create `templates` html.
 - Namespace URL names.
 
-## Day 4
+## Day 4: Form, Generic View, CSS, Static File, Customize Admin
 https://docs.djangoproject.com/en/4.1/intro/tutorial04/
 
 - Use form.
@@ -49,3 +56,5 @@ https://docs.djangoproject.com/en/4.1/intro/tutorial07/
 - Customize admin add object page.
 - Customize admin list view page.
 - Customize admin templates.
+
+## Day 5
