@@ -10,7 +10,7 @@ The main topic of the project is the travel website.
 
 
 ## Day 1: Initial Project
-<a href="https://docs.djangoproject.com/en/4.1/intro/tutorial01/" target="_blank">docs.djangoproject.com/en/4.1/intro/tutorial01</a>
+[Writing your first Django app, part 1](https://docs.djangoproject.com/en/4.1/intro/tutorial01/)
 
 
 - Init project.
@@ -21,7 +21,7 @@ The main topic of the project is the travel website.
 - Learn about `path()`.
 
 ## Day 2: Database Interaction
-<a href="https://docs.djangoproject.com/en/4.1/intro/tutorial02/" target="_blank">Writing your first Django app, part 2</a>
+[Writing your first Django app, part 2](https://docs.djangoproject.com/en/4.1/intro/tutorial02/)
 
 - Connect database (MSSQL).
 - Set timezone.
@@ -29,7 +29,7 @@ The main topic of the project is the travel website.
 - Bind data model to admin.
 
 ## Day 3: HTML Templates
-<a href="https://docs.djangoproject.com/en/4.1/intro/tutorial03/" target="_blank">docs.djangoproject.com/en/4.1/intro/tutorial03</a>
+[Writing your first Django app, part 3](https://docs.djangoproject.com/en/4.1/intro/tutorial03/)
 
 - Register Sub-app in admin app.
 - Custom show object directly.
@@ -37,22 +37,22 @@ The main topic of the project is the travel website.
 - Namespace URL names.
 
 ## Day 4: Form, Generic View, CSS, Static File, Customize Admin
-<a href="https://docs.djangoproject.com/en/4.1/intro/tutorial04/" target="_blank">docs.djangoproject.com/en/4.1/intro/tutorial04</a>
+[Writing your first Django app, part 4](https://docs.djangoproject.com/en/4.1/intro/tutorial04/)
 
 - Use form.
 - Use generic views.
 
-<a href="https://docs.djangoproject.com/en/4.1/intro/tutorial05/" target="_blank">docs.djangoproject.com/en/4.1/intro/tutorial05</a>
+[Writing your first Django app, part 5](https://docs.djangoproject.com/en/4.1/intro/tutorial05/)
 
 - Unit-test.
 - UI test..
 
-<a href="https://docs.djangoproject.com/en/4.1/intro/tutorial06/" target="_blank">docs.djangoproject.com/en/4.1/intro/tutorial06</a>
+[Writing your first Django app, part 6](https://docs.djangoproject.com/en/4.1/intro/tutorial06/)
 
 - Add css.
 - Manage static file.
 
-<a href="https://docs.djangoproject.com/en/4.1/intro/tutorial07/" target="_blank">docs.djangoproject.com/en/4.1/intro/tutorial07</a>
+[Writing your first Django app, part 7](https://docs.djangoproject.com/en/4.1/intro/tutorial07/)
 
 - Customize admin add object page.
 - Customize admin list view page.
