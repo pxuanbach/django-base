@@ -10,7 +10,8 @@ The main topic of the project is the travel website.
 
 
 ## Day 1: Initial Project
-https://docs.djangoproject.com/en/4.1/intro/tutorial01/
+<a href="https://docs.djangoproject.com/en/4.1/intro/tutorial01/" target="_blank">docs.djangoproject.com/en/4.1/intro/tutorial01</a>
+
 
 - Init project.
 - Run project.
@@ -20,7 +21,7 @@ https://docs.djangoproject.com/en/4.1/intro/tutorial01/
 - Learn about `path()`.
 
 ## Day 2: Database Interaction
-https://docs.djangoproject.com/en/4.1/intro/tutorial02/
+<a href="https://docs.djangoproject.com/en/4.1/intro/tutorial02/" target="_blank">docs.djangoproject.com/en/4.1/intro/tutorial02</a>
 
 - Connect database (MSSQL).
 - Set timezone.
@@ -28,7 +29,7 @@ https://docs.djangoproject.com/en/4.1/intro/tutorial02/
 - Bind data model to admin.
 
 ## Day 3: HTML Templates
-https://docs.djangoproject.com/en/4.1/intro/tutorial03/
+<a href="https://docs.djangoproject.com/en/4.1/intro/tutorial03/" target="_blank">docs.djangoproject.com/en/4.1/intro/tutorial03</a>
 
 - Register Sub-app in admin app.
 - Custom show object directly.
@@ -36,25 +37,25 @@ https://docs.djangoproject.com/en/4.1/intro/tutorial03/
 - Namespace URL names.
 
 ## Day 4: Form, Generic View, CSS, Static File, Customize Admin
-https://docs.djangoproject.com/en/4.1/intro/tutorial04/
+<a href="https://docs.djangoproject.com/en/4.1/intro/tutorial04/" target="_blank">docs.djangoproject.com/en/4.1/intro/tutorial04</a>
 
 - Use form.
 - Use generic views.
 
-https://docs.djangoproject.com/en/4.1/intro/tutorial05/
+<a href="https://docs.djangoproject.com/en/4.1/intro/tutorial05/" target="_blank">docs.djangoproject.com/en/4.1/intro/tutorial05</a>
 
 - Unit-test.
 - UI test..
 
-https://docs.djangoproject.com/en/4.1/intro/tutorial06/
+<a href="https://docs.djangoproject.com/en/4.1/intro/tutorial06/" target="_blank">docs.djangoproject.com/en/4.1/intro/tutorial06</a>
 
 - Add css.
 - Manage static file.
 
-https://docs.djangoproject.com/en/4.1/intro/tutorial07/
+<a href="https://docs.djangoproject.com/en/4.1/intro/tutorial07/" target="_blank">docs.djangoproject.com/en/4.1/intro/tutorial07</a>
 
 - Customize admin add object page.
 - Customize admin list view page.
 - Customize admin templates.
 
-## Day 5
+## Day 5:
