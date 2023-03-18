@@ -21,7 +21,7 @@ The main topic of the project is the travel website.
 - Learn about `path()`.
 
 ## Day 2: Database Interaction
-[Docs.](https://docs.djangoproject.com/en/4.1/intro/tutorial02/){:target="_blank"}
+<a href="https://docs.djangoproject.com/en/4.1/intro/tutorial02/" target="_blank">Writing your first Django app, part 2</a>
 
 - Connect database (MSSQL).
 - Set timezone.
